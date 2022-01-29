@@ -2,7 +2,7 @@
   "name": "qiklook",
   "productName": "qiklook",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "RAPIDS QikLook - graph data explorer app in electron, powered by RAPIDS libraries",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
